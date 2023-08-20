@@ -98,30 +98,59 @@
 ![image](https://github.com/qriz1452/certifications/assets/112246222/da184e11-50bf-4a9a-8bd5-620c63b270b3)
 ![image](https://github.com/qriz1452/certifications/assets/112246222/8f6d537d-0c6f-4752-b467-d685ec91bdc1)
 ![image](https://github.com/qriz1452/certifications/assets/112246222/31951178-04a2-4491-9c4a-4758cab36aa4)
+![Screenshot 2023-08-20 011007](https://github.com/qriz1452/certifications/assets/112246222/c39cdaae-305d-49b2-b241-41ba5312ecca)
+![Screenshot 2023-08-20 011023](https://github.com/qriz1452/certifications/assets/112246222/44c077d7-d4ce-4a2c-804a-d22a2fdf3574)
+![Screenshot 2023-08-20 011042](https://github.com/qriz1452/certifications/assets/112246222/55d905fe-4d42-4181-9285-0e9a973fce75)
+![Screenshot 2023-08-20 011102](https://github.com/qriz1452/certifications/assets/112246222/8bc1c529-15fa-4721-8344-ccc9b0bc6310)
+![Screenshot 2023-08-20 011129](https://github.com/qriz1452/certifications/assets/112246222/08e98c07-0b47-42db-bbb4-2a2b983647c8)
+![Screenshot 2023-08-20 011140](https://github.com/qriz1452/certifications/assets/112246222/5f8c76d3-d69f-455a-a5d2-6aabf92fde55)
+![Screenshot 2023-08-20 011154](https://github.com/qriz1452/certifications/assets/112246222/9368b14f-1a5a-49dd-b4ef-0a97f3d6043e)
+![Screenshot 2023-08-20 011209](https://github.com/qriz1452/certifications/assets/112246222/c44ce72a-e8df-4465-add4-de77a9a751c8)
+![Screenshot 2023-08-20 011219](https://github.com/qriz1452/certifications/assets/112246222/04b1b42f-a705-4e5e-a430-2aeb6a2ee1b5)
+![Screenshot 2023-08-20 011237](https://github.com/qriz1452/certifications/assets/112246222/4b4f7123-00ad-4d22-89bd-2e440bee70fa)
+![Screenshot 2023-08-20 011251](https://github.com/qriz1452/certifications/assets/112246222/fe39e34c-2b95-4d44-a4eb-3ca424a2063e)
+![Screenshot 2023-08-20 011356](https://github.com/qriz1452/certifications/assets/112246222/74aca988-649e-467a-88ea-fd480aeff130)
+![Screenshot 2023-08-20 011413](https://github.com/qriz1452/certifications/assets/112246222/1847b4f4-581e-493d-a5e0-7570dfaa876a)
+![Screenshot 2023-08-20 011427](https://github.com/qriz1452/certifications/assets/112246222/7af5d1e6-1907-4637-b2ed-2603a7d91a70)
+![Screenshot 2023-08-20 011441](https://github.com/qriz1452/certifications/assets/112246222/8f3d5657-5658-425e-bb83-3ed8574a93c9)
+![Screenshot 2023-08-20 011452](https://github.com/qriz1452/certifications/assets/112246222/4b8c7b81-189a-40bc-aef7-f752b1a0ebc5)
+![Screenshot 2023-08-20 011505](https://github.com/qriz1452/certifications/assets/112246222/83aa097e-fa34-4cc4-99a9-17baf9f26f22)
+![Screenshot 2023-08-20 011533](https://github.com/qriz1452/certifications/assets/112246222/a9c90f4f-d372-403b-a1b2-9a92d87df112)
+![Screenshot 2023-08-20 011547](https://github.com/qriz1452/certifications/assets/112246222/2d68f0b6-f49c-4e87-886c-8d6a2bf623be)
+![Screenshot 2023-08-20 011559](https://github.com/qriz1452/certifications/assets/112246222/f8f34481-d5da-41c3-8bef-29caf6ed1a85)
+![Screenshot 2023-08-20 011610](https://github.com/qriz1452/certifications/assets/112246222/700ce4d4-d8f8-44a6-ad9a-ffaac92d2af5)
+![Screenshot 2023-08-20 011631](https://github.com/qriz1452/certifications/assets/112246222/2815a450-41c3-4910-a485-8a972981e547)
+![Screenshot 2023-08-20 011641](https://github.com/qriz1452/certifications/assets/112246222/19d3a789-721e-4491-8bf4-ed0e1e3f6319)
+![Screenshot 2023-08-20 011703](https://github.com/qriz1452/certifications/assets/112246222/120096a0-2196-4bea-a81b-bb896b411bef)
+![Screenshot 2023-08-20 011719](https://github.com/qriz1452/certifications/assets/112246222/b247f176-f9d3-4fa6-a24d-6516eb544ea5)
+![Screenshot 2023-08-20 011733](https://github.com/qriz1452/certifications/assets/112246222/eb14f1b0-843c-43f0-a8ec-bd7aa66aeba2)
+![Screenshot 2023-08-20 011803](https://github.com/qriz1452/certifications/assets/112246222/1f345920-d5f4-416b-856a-9a58cc883134)
+![Screenshot 2023-08-20 011818](https://github.com/qriz1452/certifications/assets/112246222/c1f7fa44-157c-4f77-b2d4-75307fe15ff7)
+![Screenshot 2023-08-20 011829](https://github.com/qriz1452/certifications/assets/112246222/1d1146b2-30d1-4daa-8b9a-1ed363bfd3fe)
+![Screenshot 2023-08-20 011853](https://github.com/qriz1452/certifications/assets/112246222/a95e6fb9-4114-4234-b444-1881992cee3e)
+![Screenshot 2023-08-20 011903](https://github.com/qriz1452/certifications/assets/112246222/1204056c-8f74-4e78-a222-72a12f7959da)
+![Screenshot 2023-08-20 011909](https://github.com/qriz1452/certifications/assets/112246222/b67f392a-6312-4fe1-b5db-9af348e277ae)
+![image](https://github.com/qriz1452/certifications/assets/112246222/9bddc50f-a261-4c18-adf2-520c5126fc07)
+![image](https://github.com/qriz1452/certifications/assets/112246222/f4774a5e-eae8-4bca-a459-475237706a98)
+![image](https://github.com/qriz1452/certifications/assets/112246222/d268e44d-03ad-45dc-a99b-b8377d91876c)
+![image](https://github.com/qriz1452/certifications/assets/112246222/b5986406-6d1c-4f7c-9a4c-21c2ce2a2c1f)
+![image](https://github.com/qriz1452/certifications/assets/112246222/9fa63f6f-5d5b-433d-828e-50e1822ed9f0)
+![image](https://github.com/qriz1452/certifications/assets/112246222/f4dea52d-7d55-484d-9b81-b782406dc1da)
+![image](https://github.com/qriz1452/certifications/assets/112246222/67b9fa38-e5e7-4022-9fae-6b953a0c2c50)
+![image](https://github.com/qriz1452/certifications/assets/112246222/e0189222-2a40-4f32-b56f-fe29cb39aa4f)
+![image](https://github.com/qriz1452/certifications/assets/112246222/5e8713aa-6a6b-497e-8159-335f3aacf71e)
+![image](https://github.com/qriz1452/certifications/assets/112246222/33cf24a9-cf53-4d53-9e7e-d5bd063ffbdc)
+![image](https://github.com/qriz1452/certifications/assets/112246222/65fd800c-3221-4f1f-9f62-006661df1c0e)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![image](https://github.com/qriz1452/certifications/assets/112246222/f78e8a31-a791-4552-a358-dd09c80217b5)
+![image](https://github.com/qriz1452/certifications/assets/112246222/68cafa2e-8ec0-42ea-89be-b2351e4587b6)
+![image](https://github.com/qriz1452/certifications/assets/112246222/26b84e25-8d0a-494a-9ac6-fb08e01489e8)
+![image](https://github.com/qriz1452/certifications/assets/112246222/efcc7cd2-6445-40ae-bf7a-333eb7b5cb34)
+![image](https://github.com/qriz1452/certifications/assets/112246222/c5432988-44b8-4a5f-a91e-63780a9a6142)
+![image](https://github.com/qriz1452/certifications/assets/112246222/42c4f918-7c67-4407-a816-72c134e398d4)
+![image](https://github.com/qriz1452/certifications/assets/112246222/7839147f-2fed-4af6-95b0-d04009b90e08)
+![image](https://github.com/qriz1452/certifications/assets/112246222/7d56679d-972a-478f-8565-f9b4c9482244)
+![image](https://github.com/qriz1452/certifications/assets/112246222/bd1a69ef-650d-4804-a887-35b6f8d4b764)
 
 
 
